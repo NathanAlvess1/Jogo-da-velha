@@ -1,0 +1,15 @@
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\obj\Debug\netcoreapp3.1\JogodaVelha.csprojAssemblyReference.cache
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\obj\Debug\netcoreapp3.1\JogodaVelha.csproj.GenerateResource.cache
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\obj\Debug\netcoreapp3.1\JogodaVelha.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\obj\Debug\netcoreapp3.1\JogodaVelha.AssemblyInfo.cs
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\obj\Debug\netcoreapp3.1\JogodaVelha.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\bin\Debug\netcoreapp3.1\JogodaVelha.exe
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\bin\Debug\netcoreapp3.1\JogodaVelha.deps.json
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\bin\Debug\netcoreapp3.1\JogodaVelha.runtimeconfig.json
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\bin\Debug\netcoreapp3.1\JogodaVelha.runtimeconfig.dev.json
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\bin\Debug\netcoreapp3.1\JogodaVelha.dll
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\bin\Debug\netcoreapp3.1\JogodaVelha.pdb
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\obj\Debug\netcoreapp3.1\JogodaVelha.dll
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\obj\Debug\netcoreapp3.1\JogodaVelha.pdb
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\obj\Debug\netcoreapp3.1\JogodaVelha.genruntimeconfig.cache
+C:\Users\natha\source\repos\JogodaVelha\JogodaVelha\obj\Debug\netcoreapp3.1\jogodavelha.Form1.resources
